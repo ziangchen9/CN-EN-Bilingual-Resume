@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.7)  8 JUL 2025 22:09
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.7)  3 NOV 2025 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,7 +355,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthfirst=\dimen199
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 14.
- (c:/TeXDocuments/RESUME/Public/out/RESUME.aux)
+ (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.aux)
 \openout1 = `RESUME.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -479,7 +479,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: xetex.def on input line 149.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 25.
- (c:/TeXDocuments/RESUME/Public/out/RESUME.out) (c:/TeXDocuments/RESUME/Public/out/RESUME.out)
+ (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.out) (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.out)
 \@outlinefile=\write3
 \openout3 = `RESUME.out'.
 
@@ -520,7 +520,7 @@ File: pictures/dumpling.jpg Graphic file (type bmp)
 <pictures/dumpling.jpg>
 
 
-[2] (c:/TeXDocuments/RESUME/Public/out/RESUME.aux)
+[2] (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
@@ -530,11 +530,11 @@ Package rerunfilecheck Info: File `RESUME.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14536 strings out of 470249
- 314363 string characters out of 5487939
+ 314418 string characters out of 5487939
  741271 words of memory out of 5000000
  41000 multiletter control sequences out of 15000+600000
  629035 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,5n,111p,413b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:/TeXDocuments/RESUME/Public/out/RESUME.pdf (2 pages).
+Output written on c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.pdf (2 pages).
