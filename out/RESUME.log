@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.7)  3 NOV 2025 15:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.7)  3 NOV 2025 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,30 +354,30 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen198
 \titlewidthfirst=\dimen199
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
  (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.aux)
 \openout1 = `RESUME.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -385,57 +385,57 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 25.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 25.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 25.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 25.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 25.
-LaTeX Font Info:    Redeclaring math accent \check on input line 25.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 25.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 25.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 25.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 25.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 25.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 25.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 25.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -478,7 +478,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 149.
  (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 27.
  (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.out) (c:/Projects/CN-EN-Bilingual-Resume/out/RESUME.out)
 \@outlinefile=\write3
 \openout3 = `RESUME.out'.
