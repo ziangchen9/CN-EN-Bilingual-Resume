@@ -19,3 +19,7 @@
 模板代码与样式（例如 `RESUME.tex` 中的排版结构、宏设置）：采用 MIT License。
 
 详情请见根目录的 `LICENSE` 文件。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ziangchen9/CN-EN-Bilingual-Resume.git&type=date&legend=top-left)](https://www.star-history.com/#ziangchen9/CN-EN-Bilingual-Resume.git&type=date&legend=top-left)
